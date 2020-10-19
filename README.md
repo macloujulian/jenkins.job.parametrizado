@@ -1,2 +1,2 @@
-# jenkins.job.parametrizado.1
-El mismo Job parametrizado 1 pero alojado en este repositorio
+# jenkins.job.parametrizado
+El mismo Job booleano pero alojado en este repositorio
